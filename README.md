@@ -31,6 +31,12 @@ table#t01 th {
     <th width="70%">Suggestion</th>
   </tr>
   <tr>
+  <th>Page Title</th>
+  <td>The Page title length of your page is <b>24</b> characters.</td>
+  <td>Most search engines will truncate Page title to <b>65</b>characters.<br><br>
+  <b>Eg:-National Portal of India</b></td>
+  </tr>
+  <tr>
 
 <th>Meta Description</th>
 
@@ -77,6 +83,11 @@ table#t01 th {
 5.<b>Recheck –</b> test the link for validity again.</td>
 </tr> 
 <tr>
+<th>Underscores in Links Test</th>
+<td>We have not found underscores in your in-page URLs.</td>
+<td>A url must caontain only lower alphabets, numbers, slashes(/), dash(-).</td>
+</tr>
+<tr>
 
 <th>SEO Friendly URL Test</th>
 
@@ -114,6 +125,16 @@ You need to start with a square image. When you have the image you want, name it
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
 Click on save, and now you have a favicon of your own.</td>
+</tr>
+<tr>
+<th>Noindex Tag Checker</th>
+<td>Your webpage does not use the noindex meta tag.</td>
+<td>This means that your webpage will be read and indexed by search engines.</td>
+</tr>
+<tr>
+<th>Nofollow Tag Checker</th>
+<td>Your webpage does not use the nofollow meta tag.</td>
+<td>This means that your webpage will be read and indexed by search engines.</td>
 </tr>
 <tr>
 
