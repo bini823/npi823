@@ -90,7 +90,7 @@ table#t01 th {
 <tr>
 <th>Broken Links Test</th>
 <td>From <b>157</b> distinct anchor links analyzed, none of them appears to be broken.</td>
-<td>If broken link appears, It can hurt your SEO and page rankings. The worst result for the user clicking on a broken link is to be sent to a generic browser 404 page not found.<br><br>
+<td>If broken link appears, It can hurt your SEO and page rankings. The worst result for the user clicking on a broken link is to be sent to a generic browser <b>404 page not found.</b><br><br>
 <b>Fixing broken links with Broken Link Checker:-</b><br>
 1.<b>Edit URL –</b> change the URL if it is misspelled or you find there’s an updated link. The Suggestions option may give you an alternative link.<br>
 2.<b>Unlink –</b> if the link has ceased to be, remove the link.<br>
