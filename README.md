@@ -130,7 +130,7 @@ table#t01 th {
 <td>Your webpage has <b>23</b> 'img' tags and <b>1</b> of them missing the required 'alt' attribute.</td>
 <td>Not Good</td>
 <td>Required 'alt' attribute.<br><br>
-<img id="t007-10048" style="width: 100%; height: auto;" alt="image" src="/images/i_image-1-.png"  width ="108" height ="65" /></td>
+</td>
 
 </tr>
 <tr>
